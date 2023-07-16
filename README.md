@@ -30,8 +30,14 @@ Counter: Counter reaches max count.
 
 ![image](https://github.com/MostafaELFEEL/Automation-Project-using-Timer-and-Counter/assets/106331831/69f83c34-c746-4b0b-9477-496a7aef07f3)
 
+
+
 ![image](https://github.com/MostafaELFEEL/Automation-Project-using-Timer-and-Counter/assets/106331831/d9e08494-44fc-412c-8362-153800313f2c)
 
 ![image](https://github.com/MostafaELFEEL/Automation-Project-using-Timer-and-Counter/assets/106331831/79a6bb60-90da-4794-9ca7-ae9e2881cd5a)
 
 ![WhatsApp Image 2023-06-14 at 8 16 07 AM](https://github.com/MostafaELFEEL/Automation-Project-using-Timer-and-Counter/assets/106331831/e4b99589-88e4-4138-a5f8-d359a2a637ff)
+
+# HMI:
+![WhatsApp Image 2023-06-14 at 7 57 41 AM](https://github.com/MostafaELFEEL/Automation-Project-using-Timer-and-Counter/assets/106331831/d7a9d688-08f1-4ce4-b037-546f18acf2c3)
+
